@@ -43,7 +43,7 @@
     "@types/nock": "^8.2.1",
     "@types/sinon": "^2.3.5",
     "chai": "^3.5.0",
-    "chai-as-promised": "^6.0.0",
+    "chai-as-promised": "^7.1.1",
     "gulp": "^3.9.1",
     "gulp-clean": "^0.3.2",
     "gulp-sourcemaps": "^2.2.0",
