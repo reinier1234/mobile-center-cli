@@ -51,7 +51,7 @@
     "mocha": "^3.0.2",
     "mock-require": "^2.0.2",
     "nock": "^8.0.0",
-    "run-sequence": "^1.2.2",
+    "run-sequence": "^2.2.1",
     "sinon": "^1.17.6",
     "ts-node": "^3.3.0",
     "typescript": "^2.5.2"
