@@ -53,7 +53,7 @@
     "nock": "^8.0.0",
     "run-sequence": "^1.2.2",
     "sinon": "^1.17.6",
-    "ts-node": "^3.3.0",
+    "ts-node": "^8.5.4",
     "typescript": "^2.5.2"
   },
   "dependencies": {
